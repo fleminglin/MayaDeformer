@@ -2,4 +2,4 @@
 maya custom collide deformer
 
 
-![](readmeImages/thumbnail.png)
+![](readmeImages/thumbnail.PNG)
